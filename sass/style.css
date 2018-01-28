@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Supermercado+One');
+
+body {
+	font-family: 'Supermercado One', cursive;
+	margin: 0;
+}
+
+.song {
+	width: 30%;
+	max-width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+	border: 2px solid orange;
+	border-radius: 30px;
+}
+
+h2, h3 {
+	text-transform: uppercase;
+}
+
+h3 {
+	font-style: italic;
+	color: blue;
+}
+
+.ref {
+	color: red;
+}
